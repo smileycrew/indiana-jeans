@@ -1,0 +1,42 @@
+{
+  "submissions": [
+    {
+      "ownsBlueJeans": true,
+      "socioLocationId": 1,
+      "id": 1
+    },
+    {
+      "ownsBlueJeans": true,
+      "socioLocationId": 2,
+      "id": 2
+    },
+    {
+      "ownsBlueJeans": true,
+      "socioLocationId": 3,
+      "id": 3
+    },
+    {
+      "ownsBlueJeans": true,
+      "socioLocationId": 1,
+      "id": 4
+    }
+  ],
+  "socioLocations": [
+    {
+      "id": 1,
+      "label": "Urban"
+    },
+    {
+      "id": 2,
+      "label": "Suburban"
+    },
+    {
+      "id": 3,
+      "label": "Semi-Rural"
+    },
+    {
+      "id": 4,
+      "label": "Rural"
+    }
+  ]
+}
